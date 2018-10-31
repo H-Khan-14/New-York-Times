@@ -1,0 +1,9 @@
+# ignore system files
+instanews-desktop-photos.png
+instanews-mobile-initial.png
+instanews-mobile-photos.png
+instanews-tablet-initial.png
+instanews-tablet-photos.png
+instanews-desktop-initial.png
+.DS_Store
+node_modules/
